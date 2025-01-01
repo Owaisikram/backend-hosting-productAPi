@@ -5,7 +5,7 @@ import cors from "cors";
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send('hello world');
+  res.send('Owais 17995');
 });
 
 app.get("/products", (req, res) => {
